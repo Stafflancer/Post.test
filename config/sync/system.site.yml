@@ -1,0 +1,14 @@
+uuid: 7168c038-e3cc-466c-b348-d7b663df7f67
+name: Test
+mail: example@example.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
